@@ -4,29 +4,29 @@ Project developed by: Mikhailov Alexander
 
 ## Application structure:
 
-**app.py** - *основное приложением с представлениями (views)*
+**app.py** - *main application with views*
 
-**base.py** - *файл с классом Arena для нашего приложения*
+**base.py** - *arena class file for our application*
 
-**classes.py** - *файл с классами наших персонажей и их характеристиками*
+**classes.py** - *a file with our character classes and their characteristics*
 
-**equipment.py** - *файл с оружием и броней и их показателями*
+**equipment.py** - *file with weapons and armor and their performance*
 
-**skills.py** - *файл с умениями наших персонажей*
+**skills.py** - *file with the skills of our characters*
 
-**unit.py** - *файл c основной логикой приложения (базовым классом, классом игрока и классом противника)*
+**unit.py** - *file with the main application logic (base class, player class and enemy class)*
 
-**wsgi.py** - *файл для развёртывания приложения*
+**wsgi.py** - *application deployment file*
 
-**requirements.txt** - *зависимости приложения*
+**requirements.txt** - *application dependencies*
 
-**.gitignore** - *файлы и папки для игнорирования в системе контроля версий Git*
+**.gitignore** - *files and folders to ignore in Git version control*
 
 
-- **Директория data** - *Директория с исходными данными приложения*
-    - **equipment.json** - *JSON-файл с данными по оружию и броне* <br>
+- **Directory data** - *Directory with application source data*
+    - **equipment.json** - *JSON file with weapon and armor data* <br>
 
-- **Директория templates** - *Директория с шаблонами приложения (HTML)*
-    - **fight.html** - *Шаблон меню арены приложения (HTML)* <br>
-    - **here_choosing.html** - *Шаблон меню выбора персонажей (HTML)* <br>
-    - **index.html** - *Шаблон главного меню приложения (HTML)* <br>
+- **Directory templates** - *Directory with application templates (HTML)*
+    - **fight.html** - *App arena menu template (HTML)* <br>
+    - **hero_choosing.html** - *Character selection menu template (HTML)* <br>
+    - **index.html** - *Application main menu template (HTML)* <br>
