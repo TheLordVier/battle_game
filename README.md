@@ -1,8 +1,8 @@
 ## Курсовая работа №5. Погружение в Python, хостинг и деплой.
 
-Студент: Михайлов Александр
+Project developed by: Mikhailov Alexander
 
-## Структура приложения:
+## Application structure:
 
 **app.py** - *основное приложением с представлениями (views)*
 
