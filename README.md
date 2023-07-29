@@ -1,4 +1,4 @@
-## Курсовая работа №5. Погружение в Python, хостинг и деплой.
+## Battle game (a small game with a web interface about the battle of heroes in the style of old-school browser games)
 
 Project developed by: Mikhailov Alexander
 
